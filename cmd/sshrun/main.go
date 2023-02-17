@@ -7,7 +7,7 @@ import (
 	"log"
 	"os"
 
-	"github.com/gotamer/sshrun"
+	"hansaray.pw/go/sshrun.git"
 )
 
 var (
